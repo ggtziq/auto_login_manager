@@ -1,0 +1,2 @@
+selenium
+sqlite3  # Python 內建，這裡可不列
