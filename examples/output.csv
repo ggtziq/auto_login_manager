@@ -1,0 +1,2 @@
+name,nameinput_path,passwd,passwdinput_path,action,webway,webname
+testuser,//input[@id='username'],123456,//input[@id='password'],//button[@id='login'],https://example.com,ExampleSite
